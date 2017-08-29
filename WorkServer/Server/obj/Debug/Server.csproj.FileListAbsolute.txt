@@ -1,0 +1,30 @@
+c:\users\nikendo\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\nikendo\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\nikendo\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.Form1.resources
+c:\users\nikendo\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\nikendo\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\nikendo\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\nikendo\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\nikendo\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\nikendo\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.exe
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Server\Server\bin\Debug\Server.exe
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\WorkServer\Server\bin\Debug\Server.exe.config
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\WorkServer\Server\obj\Debug\Server.exe
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\WorkServer\Server\obj\Debug\Server.pdb
+C:\Users\User\Desktop\Projects\WorkServer\Server\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\Projects\WorkServer\Server\bin\Debug\Server.exe
+C:\Users\User\Desktop\Projects\WorkServer\Server\bin\Debug\Server.pdb
+C:\Users\User\Desktop\Projects\WorkServer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Projects\WorkServer\Server\obj\Debug\Server.Form1.resources
+C:\Users\User\Desktop\Projects\WorkServer\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\User\Desktop\Projects\WorkServer\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Projects\WorkServer\Server\obj\Debug\Server.exe
+C:\Users\User\Desktop\Projects\WorkServer\Server\obj\Debug\Server.pdb
